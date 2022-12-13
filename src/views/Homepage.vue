@@ -11,24 +11,24 @@
         </div>
         <div style="color:darkgray" class="mt-4 d-flex flex-column gap-1">
           <div>
-            <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">Steve.Doe@website.com</a>
+            <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#" class="ms-2">Steve.Doe@website.com</a>
           </div>
           <div>
-            <i class="fa fa-mobile" aria-hidden="true"></i><a href="#">0123 456 78900</a>
+            <i class="fa fa-mobile" aria-hidden="true"></i><a href="#" class="ms-3">0123 456 78900</a>
           </div>
         </div>
       </div>
       <div class="col-3 d-flex flex-column gap-3 mt-4" style="color:darkgray">
-        <div>
+        <div class="d-flex gap-2 align-items-center">
           <i class="fa fa-linkedin-square" aria-hidden="true"></i><a href="#">linkedin.com/in/stevedoe</a>
         </div>
-        <div>
+        <div class="d-flex gap-2 align-items-center">
           <i class="fa fa-github-alt" aria-hidden="true"></i><a href="#">github.com/username</a>
         </div>
-        <div>
+        <div class="d-flex gap-2 align-items-center">
           <i class="fa fa-codepen" aria-hidden="true"></i><a href="#">codepen.io/username/</a>
         </div>
-        <div>
+        <div class="d-flex gap-2 align-items-center">
           <i class="fa fa-question-circle" aria-hidden="true"></i><a href="#">yourwebsite.com</a>
         </div>
       </div>
